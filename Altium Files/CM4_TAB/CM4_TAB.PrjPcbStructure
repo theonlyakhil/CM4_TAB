@@ -1,1 +1,3 @@
 Record=TopLevelDocument|FileName=Compute_module4_connector.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Compute_module4_connector.SchDoc|FileName=dummy sheet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Compute_module4_connector.SchDoc|FileName=SD_Card_Schematic.SchDoc|SheetNumber=3
