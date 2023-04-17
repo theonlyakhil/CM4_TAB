@@ -99,6 +99,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VABPWFNY
 
+[Document4]
+DocumentPath=HDMI_Schematic.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EGPDMLIM
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
