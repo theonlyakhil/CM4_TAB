@@ -1,7 +1,7 @@
 1. sd card[DONE]
 2. HDMI[DONE]
 3. DSI Connector[DONE]
-4. CSI Connector
+4. CSI Connector[DONE]
 5. USB C Connector -> for Charging and data transfer 
 6. power button
 7. Audio Codec 
