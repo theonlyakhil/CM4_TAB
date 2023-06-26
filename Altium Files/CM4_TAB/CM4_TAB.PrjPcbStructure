@@ -1,3 +1,5 @@
 Record=TopLevelDocument|FileName=Compute_module4_connector.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Compute_module4_connector.SchDoc|FileName=DSI_and_CSI_Connector.SchDoc|SheetNumber=5
 Record=NoMainPathDocument|SourceDocument=Compute_module4_connector.SchDoc|FileName=dummy sheet.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Compute_module4_connector.SchDoc|FileName=HDMI_Schematic.SchDoc|SheetNumber=4
 Record=NoMainPathDocument|SourceDocument=Compute_module4_connector.SchDoc|FileName=SD_Card_Schematic.SchDoc|SheetNumber=3
